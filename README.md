@@ -17,4 +17,4 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can interact with it by calling the mint function to mint the tokens and burn function to burn the tokens by burning only those tokens whoose value is less than or equal to the balance of that particular address. 
 
 Authors : 
-Sarita Patil
+Smit Patil
